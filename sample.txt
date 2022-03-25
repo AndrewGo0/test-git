@@ -1,5 +1,5 @@
 text
 new text
-additional text
-text                      
+additional text                    
 another changes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+new changes
